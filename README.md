@@ -11,9 +11,9 @@ Membuat QR Code dengan QRCode.js, Menambahkan QR Code Via Website
 Cara Pemakaiannya, Bisa menggunakan QRCode.js CDN, dengan Menambahkan Script Berikut
 
 ```html
-<script src="https://mexious.github.io/qrcode/js/qrthecode.min.js"></script>
-<script src="https://mexious.github.io/qrcode/js/qrthecode.js"></script>
-<script src="https://mexious.github.io/qrcode/js/qrcodejq.js"></script>
+<script src="https://mexious.github.io/qrcode/cdn/qrthecode.min.js"></script>
+<script src="https://mexious.github.io/qrcode/cdn/qrthecode.js"></script>
+<script src="https://mexious.github.io/qrcode/cdn/qrcodejq.js"></script>
 ```
 
 Atau, Bisa Download Script nya,<a href="https://github.com/mexious/qrcode/archive/master.zip">DISINI</a>
